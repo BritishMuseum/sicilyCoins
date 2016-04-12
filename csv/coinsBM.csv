@@ -1,0 +1,41 @@
+mint,nomismaMint,description,regNumber,PRN,metal,metalName,imageUrl
+Aetna,http://nomisma.org/id/aetna,Coin; Aetna; obverse (head),"1946,0101.783",CGR33056,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN01544/AN01544511_001_l.jpg
+Aetna,http://nomisma.org/id/aetna,Coin; Aetna; reverse,"1947,0606.90",CGR33057,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN01544/AN01544512_001_l.jpg
+Camarina,http://nomisma.org/id/camarina,Coin; Camarina; reverse (head),"1942,0403.2",CGR33476,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990333_l.jpg
+Camarina,http://nomisma.org/id/camarina,Coin; Camarina; obverse (quadriga),"RPK,p227a.2",CGR33469,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990326_l.jpg
+Akragas,http://nomisma.org/id/agrigentum,Coin; Akragas; obverse (eagle),"RPK,p222B.2.Agr",CGR33145,AR,Silver,http://www.britishmuseum.org/collectionimages/AN01544/AN01544600_001_l.jpg
+Akragas,http://nomisma.org/id/agrigentum,Coin; Akragas; reverse (crab),"RPK,p222B.3.Agr",CGR33154,AR,Silver,http://www.britishmuseum.org/collectionimages/AN01058/AN01058174_001_l.jpg?width=1500
+Catana,http://nomisma.org/id/catana,Coin; Catana; obverse (quadriga),"1946,0101.891",CGR33551,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990426_l.jpg?width=304
+Catana,http://nomisma.org/id/catana,Coin; Catana; reverse (head),"1946,0101.893",CGR33550,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990425_l.jpg?width=304
+Enna,http://nomisma.org/id/enna,Coin; Enna; obverse (head),"1946,0101.933",CGR33739,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990610_l.jpg?width=304
+Enna,http://nomisma.org/id/enna,Coin; Enna; reverse (animal),"RPK,p234.3",CGR33740,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990611_l.jpg?width=304
+Entella,http://nomisma.org/id/entella,Coin; Entella; obverse,BMC Entella 4,CGR33757,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN16129/AN1612936051_l.jpg?width=304
+Entella,http://nomisma.org/id/entella,Coin; Entella; reverse,"RPK,p231C.1",CGR33758,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990630_l.jpg?width=304
+Eryx,http://nomisma.org/id/eryx,Coin; Eryx; obverse (dog),"1946,0101.941",CGR33801,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612989644_l.jpg?width=304
+Eryx,http://nomisma.org/id/eryx,Coin; Eryx; reverse (head),"1857,0822.19",CGR33802,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612989645_l.jpg?width=304
+Gela,http://nomisma.org/id/gela,Coin; Gela; reverse (head),RPK.p232B.2,CGR33866,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612989711_l.jpg?width=304
+Gela,http://nomisma.org/id/gela,Coin; Gela; obverse (quadriga),"RPK,p232B.1.Gel",CGR33864,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612989710_l.jpg?width=304
+Himera,http://nomisma.org/id/himera,Coin; Himera; reverse (cock),"1946,0101.1007",CGR34073,AR,Silver,http://www.britishmuseum.org/collectionimages/AN00216/AN00216957_001_l.jpg?width=304
+Himera,http://nomisma.org/id/himera,Coin; Himera; obverse (hen),"1844,1008.50",CGR34074,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612989924_l.jpg?width=304
+Leontini,http://nomisma.org/id/leontini,Coin; Leontini; obverse (Apollo),"1946,0101.1055",CGR34256,AR,Silver,
+Leontini,http://nomisma.org/id/leontini,Coin; Leontini; reverse (lion),"1946,0101.1054",CGR34261,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025251_l.jpg?width=304
+Lipara,http://nomisma.org/id/lipara,Coin; Lipara; obverse (head),"TC,p87.1",CGR36686,AE,Copper alloy,http://www.britishmuseum.org/collectionimages/AN00449/AN00449907_001_l.jpg?width=304
+Lipara,http://nomisma.org/id/lipara,Coin; Lipara; reverse (prow),"RPK,p266.1.Lip",CGR36685,AE,Copper alloy,
+Zancle,http://nomisma.org/id/zancle,Coin; Zancle/Messana; obverse (dolphin),G.2829,CGR276534,AR,Silver,http://www.britishmuseum.org/collectionimages/AN00937/AN00937759_001_l.jpg?width=304
+Zancle,http://nomisma.org/id/zancle,Coin; Zancle/Messana; reverse (incuse),"1946,0101.1076",CGR34395,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025388_m.jpg?maxwidth=144&maxheight=144
+Morgantina,http://nomisma.org/id/morgantina,Coin; Morgantina; obverse (head),"RPK,p242A.1.Mor",CGR34622,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025626_l.jpg?width=304
+Morgantina,http://nomisma.org/id/morgantina,Coin; Morgantina; reverse (grain),"1946,0101.1124",CGR34623,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025627_l.jpg?width=304
+Motya,http://nomisma.org/id/motya,Coin; Motya; obverse,1946.0101.1137,CGR34683,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990831_l.jpg?width=304
+Motya,http://nomisma.org/id/motya,Coin; Motya; reverse,1841.0726.106,CGR34682,AR,Silver,http://www.britishmuseum.org/collectionimages/AN00969/AN00969793_001_l.jpg?width=304
+Naxos,http://nomisma.org/id/naxus,Coin; Naxos; obverse (head),"1841,0726.91",CGR34755,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025702_l.jpg?width=304
+Naxos,http://nomisma.org/id/naxus,Coin; Naxos; reverse,"RPK,p243A.3",CGR34754,AR,Silver,http://www.britishmuseum.org/collectionimages/AN00379/AN00379318_001_l.jpg?width=304
+Panormus,http://nomisma.org/id/panormus,Coin; Panormus; obverse (dog),BMC Panormus 18,CGR34802,AR,Silver,http://www.britishmuseum.org/collectionimages/AN01058/AN01058190_001_l.jpg?width=304
+Panormus,http://nomisma.org/id/panormus,Coin; Panormus; reverse (head),"1946,0101.1162",CGR34797,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612990923_l.jpg?width=304
+Segesta,http://nomisma.org/id/segesta,Coin; Segesta; obverse (dog),1848.0819.36,CGR35000,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025845_l.jpg?width=304
+Segesta,http://nomisma.org/id/segesta,Coin; Segesta; reverse (head),"1946,0101.1167",CGR34999,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025844_l.jpg?width=304
+Selinus,http://nomisma.org/id/selinus_sicily,Coin; Selinus; obverse (leaf),"1912,0714.8",CGR35120,AR,Silver,http://www.britishmuseum.org/collectionimages/AN01058/AN01058196_001_l.jpg?width=304
+Selinus,http://nomisma.org/id/selinus_sicily,Coin; Selinus; reverse (incuse punch),G.4482,CGR35121,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16130/AN1613025968_l.jpg?width=304
+Syracuse,http://nomisma.org/id/syracuse,Coin; Syracuse; obverse (biga),"RPK,p252K.11",CGR35287,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612991087_l.jpg?width=304
+Syracuse,http://nomisma.org/id/syracuse,Coin; Syracuse; reverse (Arethusa),"1946,0101.1285",CGR35286,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612991086_l.jpg?width=304
+Tauromenium,http://nomisma.org/id/tauromenium,Coin; Tauromenium; obverse (head),"1946,0101.1672",CGR36563,AR,Silver,http://www.britishmuseum.org/collectionimages/AN16129/AN1612979883_l.jpg?width=304
+Tauromenium,http://nomisma.org/id/tauromenium,Coin; Tauromenium; reverse (tripod),"1841,B.334",CGR36562,AR,Silver,

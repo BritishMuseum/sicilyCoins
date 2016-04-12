@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Aetna",
+        "description": "Coin; Aetna; reverse",
+        "metalName": "Copper alloy",
+        "regNumber": "1947,0606.90",
+        "PRN": "CGR33057",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN01544/AN01544512_001_l.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          37.566667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Aetna",
+        "description": "Coin; Aetna; obverse (head)",
+        "metalName": "Copper alloy",
+        "regNumber": "1946,0101.783",
+        "PRN": "CGR33056",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN01544/AN01544511_001_l.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9,
+          37.566667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Akragas",
+        "description": "Coin; Akragas; reverse (crab)",
+        "metalName": "Silver",
+        "regNumber": "RPK,p222B.3.Agr",
+        "PRN": "CGR33154",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN01058/AN01058174_001_l.jpg?width=1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.583333,
+          37.316667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Akragas",
+        "description": "Coin; Akragas; obverse (eagle)",
+        "metalName": "Silver",
+        "regNumber": "RPK,p222B.2.Agr",
+        "PRN": "CGR33145",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN01544/AN01544600_001_l.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.583333,
+          37.316667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Camarina",
+        "description": "Coin; Camarina; reverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1942,0403.2",
+        "PRN": "CGR33476",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990333_l.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447788,
+          36.872287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Camarina",
+        "description": "Coin; Camarina; obverse (quadriga)",
+        "metalName": "Silver",
+        "regNumber": "RPK,p227a.2",
+        "PRN": "CGR33469",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990326_l.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.447788,
+          36.872287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Catana",
+        "description": "Coin; Catana; obverse (quadriga)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.891",
+        "PRN": "CGR33551",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990426_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.088142,
+          37.502959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Catana",
+        "description": "Coin; Catana; reverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.893",
+        "PRN": "CGR33550",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990425_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.088142,
+          37.502959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Enna",
+        "description": "Coin; Enna; obverse (head)",
+        "metalName": "Copper alloy",
+        "regNumber": "1946,0101.933",
+        "PRN": "CGR33739",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990610_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.279558,
+          37.567652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Enna",
+        "description": "Coin; Enna; reverse (animal)",
+        "metalName": "Copper alloy",
+        "regNumber": "RPK,p234.3",
+        "PRN": "CGR33740",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990611_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.279558,
+          37.567652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Entella",
+        "description": "Coin; Entella; obverse",
+        "metalName": "Copper alloy",
+        "regNumber": "BMC Entella 4",
+        "PRN": "CGR33757",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612936051_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184128,
+          37.728871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Entella",
+        "description": "Coin; Entella; reverse",
+        "metalName": "Copper alloy",
+        "regNumber": "RPK,p231C.1",
+        "PRN": "CGR33758",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990630_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.184128,
+          37.728871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Eryx",
+        "description": "Coin; Eryx; obverse (dog)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.941",
+        "PRN": "CGR33801",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612989644_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583607,
+          38.036517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Eryx",
+        "description": "Coin; Eryx; reverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1857,0822.19",
+        "PRN": "CGR33802",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612989645_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583607,
+          38.036517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Gela",
+        "description": "Coin; Gela; reverse (head)",
+        "metalName": "Silver",
+        "regNumber": "RPK.p232B.2",
+        "PRN": "CGR33866",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612989711_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258219,
+          37.063156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Gela",
+        "description": "Coin; Gela; obverse (quadriga)",
+        "metalName": "Silver",
+        "regNumber": "RPK,p232B.1.Gel",
+        "PRN": "CGR33864",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612989710_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.258219,
+          37.063156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Himera",
+        "description": "Coin; Himera; obverse (hen)",
+        "metalName": "Silver",
+        "regNumber": "1844,1008.50",
+        "PRN": "CGR34074",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612989924_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.816667,
+          37.966667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Himera",
+        "description": "Coin; Himera; reverse (cock)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1007",
+        "PRN": "CGR34073",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN00216/AN00216957_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.816667,
+          37.966667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Leontini",
+        "description": "Coin; Leontini; obverse (Apollo)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1055",
+        "PRN": "CGR34256",
+        "imageUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.998115,
+          37.285478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Leontini",
+        "description": "Coin; Leontini; reverse (lion)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1054",
+        "PRN": "CGR34261",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025251_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.998115,
+          37.285478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Lipara",
+        "description": "Coin; Lipara; reverse (prow)",
+        "metalName": "Copper alloy",
+        "regNumber": "RPK,p266.1.Lip",
+        "PRN": "CGR36685",
+        "imageUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.953897,
+          38.467419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Lipara",
+        "description": "Coin; Lipara; obverse (head)",
+        "metalName": "Copper alloy",
+        "regNumber": "TC,p87.1",
+        "PRN": "CGR36686",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN00449/AN00449907_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.953897,
+          38.467419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Morgantina",
+        "description": "Coin; Morgantina; reverse (grain)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1124",
+        "PRN": "CGR34623",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025627_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.479296,
+          37.431079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Morgantina",
+        "description": "Coin; Morgantina; obverse (head)",
+        "metalName": "Silver",
+        "regNumber": "RPK,p242A.1.Mor",
+        "PRN": "CGR34622",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025626_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.479296,
+          37.431079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Motya",
+        "description": "Coin; Motya; reverse",
+        "metalName": "Silver",
+        "regNumber": "1841.0726.106",
+        "PRN": "CGR34682",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN00969/AN00969793_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.469267,
+          37.866342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Motya",
+        "description": "Coin; Motya; obverse",
+        "metalName": "Silver",
+        "regNumber": "1946.0101.1137",
+        "PRN": "CGR34683",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990831_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.469267,
+          37.866342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Naxos",
+        "description": "Coin; Naxos; obverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1841,0726.91",
+        "PRN": "CGR34755",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025702_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266688,
+          37.825317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Naxos",
+        "description": "Coin; Naxos; reverse",
+        "metalName": "Silver",
+        "regNumber": "RPK,p243A.3",
+        "PRN": "CGR34754",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN00379/AN00379318_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.266688,
+          37.825317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Panormus",
+        "description": "Coin; Panormus; obverse (dog)",
+        "metalName": "Silver",
+        "regNumber": "BMC Panormus 18",
+        "PRN": "CGR34802",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN01058/AN01058190_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366667,
+          38.116667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Panormus",
+        "description": "Coin; Panormus; reverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1162",
+        "PRN": "CGR34797",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612990923_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366667,
+          38.116667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Segesta",
+        "description": "Coin; Segesta; reverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1167",
+        "PRN": "CGR34999",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025844_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83249,
+          37.941433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Segesta",
+        "description": "Coin; Segesta; obverse (dog)",
+        "metalName": "Silver",
+        "regNumber": "1848.0819.36",
+        "PRN": "CGR35000",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025845_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83249,
+          37.941433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Selinus",
+        "description": "Coin; Selinus; reverse (incuse punch)",
+        "metalName": "Silver",
+        "regNumber": "G.4482",
+        "PRN": "CGR35121",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025968_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82512,
+          37.582841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Selinus",
+        "description": "Coin; Selinus; obverse (leaf)",
+        "metalName": "Silver",
+        "regNumber": "1912,0714.8",
+        "PRN": "CGR35120",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN01058/AN01058196_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82512,
+          37.582841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Syracuse",
+        "description": "Coin; Syracuse; obverse (biga)",
+        "metalName": "Silver",
+        "regNumber": "RPK,p252K.11",
+        "PRN": "CGR35287",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612991087_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.283333,
+          37.083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Syracuse",
+        "description": "Coin; Syracuse; reverse (Arethusa)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1285",
+        "PRN": "CGR35286",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612991086_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.283333,
+          37.083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Tauromenium",
+        "description": "Coin; Tauromenium; reverse (tripod)",
+        "metalName": "Silver",
+        "regNumber": "1841,B.334",
+        "PRN": "CGR36562",
+        "imageUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.292135,
+          37.852469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Tauromenium",
+        "description": "Coin; Tauromenium; obverse (head)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1672",
+        "PRN": "CGR36563",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16129/AN1612979883_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.292135,
+          37.852469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Zancle",
+        "description": "Coin; Zancle/Messana; obverse (dolphin)",
+        "metalName": "Silver",
+        "regNumber": "G.2829",
+        "PRN": "CGR276534",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN00937/AN00937759_001_l.jpg?width=304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.556634,
+          38.192251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mint": "Zancle",
+        "description": "Coin; Zancle/Messana; reverse (incuse)",
+        "metalName": "Silver",
+        "regNumber": "1946,0101.1076",
+        "PRN": "CGR34395",
+        "imageUrl": "http://www.britishmuseum.org/collectionimages/AN16130/AN1613025388_m.jpg?maxwidth=144&maxheight=144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.556634,
+          38.192251
+        ]
+      }
+    }
+  ]
+}
